@@ -29,6 +29,9 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "router": {
+      "origin": "src/app"
+    }
   }
 }
